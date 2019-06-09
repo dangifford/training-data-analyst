@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/dangifford/training-data-analyst.svg?style=svg)](https://circleci.com/gh/dangifford/training-data-analyst)
+
 # training-data-analyst 
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
